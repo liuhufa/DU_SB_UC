@@ -1,6 +1,4 @@
-#!/usr/bin/env python3
-# Author: Armit
-# Create Time: 2024/05/05 
+
 
 import math
 import json
